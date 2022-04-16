@@ -1,0 +1,13 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[submodule]
+	active = .
+[remote "origin"]
+	url = https://github.com/marllonDev/exer_wipro.git
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
